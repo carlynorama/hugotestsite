@@ -1,4 +1,4 @@
-baseURL = 'https://carlynorama.github.io/hugotestsite/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
