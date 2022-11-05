@@ -1,0 +1,3 @@
+baseURL = "https://carlynorama.github.io/hugotestsite/"
+languageCode = "en-us"
+publishDir = "docs"
